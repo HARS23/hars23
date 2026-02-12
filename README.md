@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harshavarthan
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Harshavarthan
 ======================================================================================================================================
 
 Full-Stack Developer | Problem Solver | Lifelong Learner
 --------------------------------------------------------
 
-* 🌍  I'm based in Tamil Nadu, India
+* 🌍  I'm based in Ooty, India
 * 🖥️  See my portfolio at [Website](http://harshatwo.is-a.dev)
 * ✉️  You can contact me at [harshavarthankarunakaran@gmail.com](mailto:harshavarthankarunakaran@gmail.com)
 * 🚀  I'm currently working on [Faculty Teaching Outcome Analyzer](http://teacher-analytics.netlify.app/)
