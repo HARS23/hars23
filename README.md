@@ -8,7 +8,7 @@ Full-Stack Developer | Problem Solver | Lifelong Learner
 * 🖥️  See my portfolio at [Website](http://harshatwo.is-a.dev)
 * ✉️  You can contact me at [harshavarthankarunakaran@gmail.com](mailto:harshavarthankarunakaran@gmail.com)
 * 🚀  I'm currently working on [Faculty Teaching Outcome Analyzer](http://teacher-analytics.netlify.app/)
-* 🧠  I'm currently learning typescript
+
 
 
 ### Socials
